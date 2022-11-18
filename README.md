@@ -6,4 +6,4 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Bufige&count_private=true)
 
-![My Github Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bufige&layout=compact&theme=aura&count_private=true)
+![My Github Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bufige&hide=pawn&langs_count=10)
