@@ -5,3 +5,5 @@
 - 📫 How to reach me: [Website](https://bufige.com), [Linkedin](https://www.linkedin.com/in/leonardo-igor-232109102/) or [email](mailto:bufige1434@gmail.com)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Bufige&count_private=true)
+
+![My Github Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bufige&layout=compact&theme=aura&count_private=true)
